@@ -1,0 +1,3 @@
+[submodule "aman"]
+	path = aman
+	url = https://github.com/aTyro1/aman.git
